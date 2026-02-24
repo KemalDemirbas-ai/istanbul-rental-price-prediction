@@ -1,4 +1,5 @@
 Project Overview & Objectives The primary objective of this project is to develop a robust predictive model for estimating rental house prices in the dynamic real estate market of Istanbul. Accurately forecasting property values requires advanced analytical approaches rather than traditional estimations. This study encompasses an end-to-end data science pipeline; starting from data collection via web scraping and comprehensive Exploratory Data Analysis (EDA), advancing through feature engineering and data scaling. Ultimately, the project aims to evaluate and compare the performance of classical Machine Learning algorithms—such as Linear Regression and Random Forest—against a Deep Learning architecture built with Keras and TensorFlow, determining the most effective method for real estate price prediction.
+![Project Banner](Gemini_Generated_Image_58yem58yem58yem5 (1).png)
 
 
 #!pip install selenium webdriver-manager bs4 pandas
